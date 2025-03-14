@@ -1,0 +1,41 @@
+{
+  "version": "1.0",
+  "timestamp": "2025-03-14T11:10:58.227Z",
+  "content": {
+    "hero": {
+      "title": "Planner Digital",
+      "subtitle": "Organize sua vida de forma eficiente"
+    },
+    "benefits": [
+      {
+        "title": "Organização Simplificada",
+        "description": "Gerencie suas tarefas diárias com facilidade"
+      }
+    ],
+    "features": [
+      {
+        "title": "Planejamento Diário",
+        "description": "Organize suas tarefas por dia"
+      }
+    ],
+    "pricing": {
+      "price": "29.90",
+      "currency": "BRL",
+      "features": [
+        "Acesso vitalício",
+        "Todas as funcionalidades"
+      ]
+    },
+    "guarantee": {
+      "days": 7,
+      "description": "Garantia incondicional de 7 dias"
+    }
+  },
+  "styles": {
+    "colors": {
+      "primary": "#1a5d1e",
+      "secondary": "#f5f5f5"
+    },
+    "typography": {}
+  }
+}
